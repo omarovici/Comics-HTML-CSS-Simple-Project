@@ -1,5 +1,4 @@
-![Batman_Flash](https://github.com/omarovici/Comics-HTML-CSS-Simple-Project/assets/137959170/2f392adb-fb99-477e-aec5-06f694088439)# Comics-HTML-CSS-Simple-Project
-Create a web page that serves as a showcase for comic books. This web page will display a collection of comic book posters, each accompanied by a brief description. When a user clicks on a comic book poster, they will be redirected to a dedicated page where they can read the full comic book.
+I create a web page that serves as a showcase for comic books. This web page will display a collection of comic book posters, each accompanied by a brief description. When a user clicks on a comic book poster, they will be redirected to a dedicated page where they can read the full comic book.
 
 That's the home page:
 
